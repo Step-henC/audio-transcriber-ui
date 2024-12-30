@@ -5,4 +5,6 @@ Frontend for api found here https://github.com/Step-henC/spring-audio-transcribe
 
 # Run Locally 
 
-Clone. `npm i` then `npm run dev`
+Clone. `npm i` then `npm run dev`. Have backend running. Create free audio mp3 file or use local file to upload and transcribe text.
+
+
